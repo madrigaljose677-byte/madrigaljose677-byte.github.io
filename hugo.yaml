@@ -91,7 +91,7 @@ params:
       - degree: B.S. in Subject
         college: University of State-City
         dates: 2004 - 2009
-      - degree: pippupu
+      - degree:
   publication:
     title: Publications
     icon: fas fa-book
