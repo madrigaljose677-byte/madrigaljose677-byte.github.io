@@ -78,9 +78,9 @@ params:
     title: Education
     icon: fas fa-graduation-cap
     list:
-      - degree: Ph.D. in Subject
-        college: University of State-City
-        dates: 2013 - 2018
+      - degree: Mathematics Associates 
+        college: Santa Ana College 
+        dates: 2022 - 2023
         thesis_title: "Effect of humans on other humans: a study of human behavior."
         thesis_url: "#"
       - degree: M.S. in Subject
@@ -91,6 +91,7 @@ params:
       - degree: B.S. in Subject
         college: University of State-City
         dates: 2004 - 2009
+      - degree: pippupu
   publication:
     title: Publications
     icon: fas fa-book
