@@ -2,7 +2,7 @@ baseURL: /
 languageCode: en-us
 build:
   writeStats: true
-title: aafu theme
+title: Madrigal
 # Uncomment below to use aafu as hugo theme. See instructions in README.md
 theme: aafu
 
@@ -25,7 +25,7 @@ params:
     title: Links
     list:
       - icon: fab fa-linkedin-in
-        url: "#"
+        url: "https://www.linkedin.com/in/jose-madrigal-215541338/"
         title: LinkedIn
       - icon: fab fa-stack-overflow
         url: "#"
